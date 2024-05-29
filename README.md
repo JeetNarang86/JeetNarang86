@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeetNarang86
-- 👀 I’m interested in creating website 
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating website.
+- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 💞️ I’m looking to collaborate on making a blogging and, ecommerce website.
 - 📫 How to reach me jeetnarang86@gmail.com
 
 <!---
